@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# Gradle / Kotlin / build output
+.gradle/
+.kotlin/
+build/
+captures/
+.cxx/
+.externalNativeBuild/
+
+# Local machine config
+local.properties
+.env
+
+# Release artifacts and signing keys
+*.apk
+*.aab
+*.keystore
+*.jks
